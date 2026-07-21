@@ -48,7 +48,7 @@ const ServicesSection = () => {
           </p>
           <br/>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto font-roboto-condensed font-light">
-            We bring a decade of expertise in software development from Fortune 500 companies to build custom AI automation solutions with a clear ROI for your needs. 
+            We bring expertise in software development from multipleFortune 500 companies to build custom AI automation solutions with a clear ROI for your needs. 
           </p>
           <br/>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto font-roboto-condensed font-light">
